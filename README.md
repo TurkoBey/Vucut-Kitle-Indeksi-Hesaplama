@@ -1,5 +1,7 @@
 # Vucut-Kitle-Endeksi-Hesaplama
 [![](https://raw.githubusercontent.com/TurkoBey/Vucut-Kitle-Indeksi-Hesaplama/master/aaa.PNG)](https://raw.githubusercontent.com/TurkoBey/Vucut-Kitle-Indeksi-Hesaplama/master/aaa.PNG)
+
+
 **Vücut Kitle İndeksi Nasıl Hesaplanır?**
 
 VKİ hesaplamasında Dünya Sağlık Örgütü’nün obezite sınıflandırması temel alınır.
