@@ -26,4 +26,6 @@ Ağırlığınızı boyunuzun karesine böldüğünüzde (kg/m²) çıkan sonuç
 100 / 3.24 = 30.8
 VKİ = 30.8
 
+[Ertuğrul GÜNEŞ](https://github.com/ertugrul37)
+
 [Kaynak](https://www.acibadem.com.tr/ilgi-alani/vucut-kitle-indeksi-hesaplama/ "Kaynak")
